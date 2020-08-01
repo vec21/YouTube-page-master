@@ -1,0 +1,163 @@
+body{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+main{
+    background-color: #f9f9f9;
+}
+header{
+    margin: 0;
+    width: auto;
+}
+nav{
+   padding: 15px 0;
+   background-color: white;
+   display:flex;
+   justify-content: start;
+    
+}
+nav div{
+    display:inline-block;
+    margin: 0 20px;
+}
+#menu{
+    margin-left: 0;
+}
+#searchbox{
+    margin: 0  30px;
+    
+}
+#searchbox .text{
+   width: 37em;
+   border:2px solid #dfe1e5;
+   border-radius: 0px;
+   padding: 4px;
+}
+.submit{
+    background: white  url(images/magnifying-glass-2x.png) center no-repeat;
+    margin-left: -7px;
+    padding: 4px 40px;
+    border:2px solid #dfe1e5;
+}
+#logomenu, #logovideo, #logogrid, #logobell{
+    filter: opacity(50%);
+}
+section {
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    width: 1122px;
+    height: 200vh;
+    padding-top: 20px;
+}
+section .meioleft{
+    width: 600px;
+    float: left;
+}
+aside .meioright{
+    width: 500px;
+    float: right;
+    padding-left: 10px;
+}
+iframe{
+    height: 415;
+}
+#iframedetail {
+    margin-left: 2px;
+}
+#iframedetail h3{
+   margin-bottom: -6px;
+}
+#iframedetail p{
+    color: #aaaaaa;
+    font-size: 13px;
+ }
+.publisher{
+    border-top:1px solid #e4e4e4;
+    border-bottom:1px solid #e4e4e4;
+    padding: 2px;
+    
+}
+.publisher #pubodin{
+    float: left;
+    padding-left: 40px;
+}
+#pubodin div p:last-child {
+    color: #aaaaaa;
+    font-size: 0.8rem;
+    margin-top: -16px;
+}
+button{
+    float: right;
+    margin-top: 10px;
+    margin-right: 0;
+    color: white;
+    border: none;
+    background-color: #cc0c00;
+    padding: 7px 12px;
+    border-radius: 3px;
+    font-size: 0.9rem;
+}
+.video-detail{
+    clear: both;
+    padding: 0 40px;
+    text-align: justify;
+    font-size: 15px;
+}
+.video-detail p{
+    margin-bottom: 4px;
+}
+.video-detail a{
+    text-decoration: none;
+    color: #aaaaaa;
+    margin-top: 50px;
+}
+aside .meioright .asideproximo{
+    width: 500px;
+    height: 20px;
+}
+aside .meioright .asideproximo p:first-child{
+    float: left;
+    margin-top: 0;
+}
+aside .meioright .asideproximo p:last-child{
+    float: right;
+    margin-right: 70px;
+    margin-top: 0;
+    color: #aaaaaa;
+}
+.imgvideos{
+    clear: both;
+}
+#sayseven{
+    border-bottom:1px solid #e4e4e4;
+}
+.sayseven{
+   margin-top: 5px;
+   height: 120px;
+}
+.sayseven img{
+    float: left;
+}
+.sayseven .desciscao{
+    float: right;
+    width: 300px;
+}
+.sayseven .desciscao h3{
+    margin-top: 2px;
+    margin-left: 4px;
+}
+.sayseven .desciscao div{
+    margin-top: -20px;
+    padding-top: -40px;
+    height: 100px;
+}
+.sayseven .desciscao div{
+    color: #aaaaaa;
+    font-size: 12px;
+}
+.sayseven .desciscao div p{
+    padding: 10px 0 0 10px;
+    margin-bottom: 0;
+}
+.sayseven .desciscao div p:last-child{
+    margin-top: -2px;
+}
