@@ -1,4 +1,4 @@
-# Html-forms
+# YouTube-page-master
 This is a recreation of clone of youtube page
 
 
@@ -10,7 +10,7 @@ This is a website to test our understainding of forms in HTML
 
 
 ## Live Demo
--[Live Demo](https://vec21.github.io/YouTube-page-master/)
+- [Live Demo](https://vec21.github.io/YouTube-page-master/)
 
 ## Author
 
